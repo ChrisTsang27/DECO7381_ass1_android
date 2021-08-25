@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DECO7381_assignment1_ver1">
         <activity
+            android:name=".LevelPageActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

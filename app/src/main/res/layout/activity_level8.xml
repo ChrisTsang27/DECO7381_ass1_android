@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Level8Activity">
+
+    <RelativeLayout
+        android:id="@+id/level8_gamePage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#99D6FF">
+
+        <TextView
+            android:id="@+id/level8_game_back"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="#99D6FF"
+            android:text="Back"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_marginLeft="340dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:background="#99D6FF"
+            android:text="Level 8"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:textSize="32sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#1DC03E"
+            android:layout_alignParentBottom="true"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -7,6 +7,23 @@
         <entry key="app/src/main/res/drawable/bg_btn_start.xml" value="0.3765625" />
         <entry key="app/src/main/res/drawable/btn_start.xml" value="0.3765625" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/level1_btn.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/level2_btn.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/level3_btn.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/level4_btn.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/level5_btn.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/level6_btn.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/level7_btn.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/level8_btn.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/levelpage_back_btn.xml" value="0.3765625" />
+        <entry key="app/src/main/res/layout/activity_level1.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/activity_level2.xml" value="0.3463541666666667" />
+        <entry key="app/src/main/res/layout/activity_level3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_level4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_level5.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_level6.xml" value="0.3463541666666667" />
+        <entry key="app/src/main/res/layout/activity_level7.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_level8.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_level_page.xml" value="0.36041666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>

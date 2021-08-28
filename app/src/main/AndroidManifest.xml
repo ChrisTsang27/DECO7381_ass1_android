@@ -10,6 +10,30 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DECO7381_assignment1_ver1">
         <activity
+            android:name=".Level8Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Level7Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Level6Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Level5Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Level4Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Level3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Level2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Level1Activity"
+            android:exported="true" />
+        <activity
             android:name=".LevelPageActivity"
             android:exported="true" />
         <activity
